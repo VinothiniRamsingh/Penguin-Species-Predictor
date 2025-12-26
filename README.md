@@ -10,6 +10,8 @@ Penguin Species Predictor is a machine learning project that predicts the specie
 
 ```
 
+```
+
 ## Sidebar: User Input Features  
 The sidebar collects measurement inputs from the user.  
 
