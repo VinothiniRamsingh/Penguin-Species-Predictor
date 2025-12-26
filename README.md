@@ -4,13 +4,14 @@ A penguin species prediction app built with FastAPI and Streamlit
 
 
 
-**## Introduction**
+## Introduction
 
 Penguin Species Predictor is a machine learning project that predicts the species of penguins based on their physical characteristics. Using data from the Palmer Penguins dataset, this repository provides an interactive web application for users to explore the data and make predictions. The aim is to offer an educational and practical tool for data science enthusiasts to understand classification models and their implementation.
 
 
 
-## Sidebar: User Input Features  
+## Sidebar: User Input Features 
+
 The sidebar collects measurement inputs from the user.  
 
 | Feature             | Widget     | Options / Range                  |
@@ -24,7 +25,7 @@ The sidebar collects measurement inputs from the user.
 
 
 
-**## Requirements**
+## Requirements
 
 To ensure smooth operation, install the following:
 
@@ -41,7 +42,7 @@ Frontend:
 - Pandas
 
 
-### Application Flow
+## Application Flow
 
 ```mermaid
 flowchart TD
