@@ -2,7 +2,10 @@ import streamlit as st
 import requests
 import pandas as pd
 
-BACKEND_URL = "http://localhost:8000/predict"  
+BACKEND_URL = "https://penguin-species-predictor-sq9l.onrender.com/predict"
+
+
+# BACKEND_URL = "http://localhost:8000/predict"  
 
 # BACKEND_URL = "http://backend:8000/predict"
 
